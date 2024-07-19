@@ -1,0 +1,49 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.log
+*.swp
+*.tmp
+*.vs
+*.vscode
+*.idea
+
+# Ignore .build files
+*.build
+
+# ASP.NET Core
+wwwroot/lib
+wwwroot/css
+wwwroot/js
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/

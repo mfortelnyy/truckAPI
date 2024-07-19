@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ycKJBjLVzB1LFd9nMmxnMz1uhwceVnsrjQQ+ZozeZ80=",
+  "Source": "truckAPI",
+  "BasePath": "_content/truckAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
